@@ -15,6 +15,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/🎓_Year-SY_AIML_Student-0d2916?style=for-the-badge" alt="Year" />
   <img src="https://img.shields.io/badge/🎓_Education-SY_AIML_Student-0d2916?style=for-the-badge" alt="SY AIML" />
   <img src="https://img.shields.io/badge/🧠_Learning-ML_%7C_MLOps_%7C_AI-144021?style=for-the-badge" alt="Learning" />
   <img src="https://img.shields.io/badge/🤖_Exploring-AI_Agents_%7C_Agentic_AI-1b5e20?style=for-the-badge" alt="Specialty" />
