@@ -46,9 +46,11 @@
     alt="Ashton Avatar"
     width="250"
   />
+  <div align="center">
+    
 <h2 align="center">📫 Connect With Me</h2>
 
-<div align="center">
+
 
 
 
