@@ -40,13 +40,14 @@
 </div>
 
 <br>
+
+  <div align="center">
   <!-- Avatar Image -->
   <img
     src="Gemini_Generated_Image_1rqj5b1rqj5b1rqj.png"
     alt="Ashton Avatar"
     width="250"
   />
-  <div align="center">
     
 <h2 align="center">📫 Connect With Me</h2>
 
